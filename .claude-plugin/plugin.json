@@ -1,0 +1,11 @@
+{
+  "name": "agentic-knowledge-hub",
+  "description": "Obsidian-backed persistent memory for Claude Code — retrieves past work and documents new learnings automatically",
+  "version": "1.0.0",
+  "author": {
+    "name": "dmgauthier",
+    "email": "danny.m.gauthier@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["knowledge", "obsidian", "memory", "note-taking", "personal-assistant"]
+}
